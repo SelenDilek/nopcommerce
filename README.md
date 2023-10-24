@@ -5,13 +5,13 @@ Techno Study Batch 4 Group 5 Friday Project. We use JAVA and Test Tools on this 
 Domain: https://demo.nopcommerce.com/
 
 ## Team
-- 🔥 Emrullah Tanıma - QA Lead
-- 🔥 Samet Çamoğlu - Tester
-- 🔥 Ümit Boyraz - Tester
-- 🔥 Selen Dilek - Tester
-- 🔥 Rustam Roz - Tester
-- 🔥 Umut Can Güzel - Tester
-- 🔥 Yakup Yüce - Tester
+-  Emrullah Tanıma - QA Lead
+-  Samet Çamoğlu - Tester
+-  Ümit Boyraz - Tester
+-  Selen Dilek - Tester
+-  Rustam Roz - Tester
+-  Umut Can Güzel - Tester
+-  Yakup Yüce - Tester
 
 Getting Started
 ---------------
@@ -57,20 +57,8 @@ List of Dependencies
 | slf4j      | The Simple Logging Facade for Java.     |
 | commons.io | The Apache Commons IO library           |
 
-## Rules Of Pull Request
-- Update your codes from main branch before you pull request
-- Don't use Thread.Sleep
-- Don't use Turkish Character
-- Don't use extra space
-- Use logical comment lines
-- Use ./screenshots folder for bug & facility report
-- Only work at your story
-- Don't add any scenario you want
-- Try to have fun ;)
 
 ## License
 
 This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
-
-### Enjoy! 👋
